@@ -64,3 +64,12 @@ https://vk.com/away.php?to=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1-ybGxozR
 ![image](https://github.com/user-attachments/assets/5db2471d-869c-4f63-9430-76889e63f2f3)
 ![image](https://github.com/user-attachments/assets/8e41b648-c896-4ac5-a783-badac8a27f3a)
 
+Таблица анализа стейкхолдера
+Для интернет-магазинов важно проанализировать заинтересованные стороны. Заинтересованные стороны интернет-магазина - это потребители, акционеры, логистические компании, государство, поставщики и другие компании
+![image](https://github.com/user-attachments/assets/ca0a9b42-4f33-4813-9210-0e4a529b19a5)
+
+Контекстная диаграмма интернет-магазина
+Следующая диаграмма контекста системы описывает ключевых пользователей системы и их внешние зависимости:
+![image](https://github.com/user-attachments/assets/f210ba90-6187-404d-bdf9-e5b5e8e936ac)
+
+
