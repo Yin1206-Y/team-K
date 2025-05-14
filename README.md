@@ -81,4 +81,7 @@ https://vk.com/away.php?to=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1-ybGxozR
 
 Ниже представлены истории пользователей с точки зрения потребителей, продавцов и логистических компаний соответственно. Благодаря пользовательским историям можно лучше понять потребности пользователей с каждой точки зрения и преобразовать их в реализуемые функции.
 ![image](https://github.com/user-attachments/assets/e747de07-8417-4c4c-b6bf-d074354bb79d)
-еще не все
+![image](https://github.com/user-attachments/assets/638fbb3c-a6fd-49ed-b20b-c6a1798bcba9)
+![image](https://github.com/user-attachments/assets/82bee1e1-d914-4ae4-a66b-480d05b79f2a)
+
+
