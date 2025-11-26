@@ -179,7 +179,8 @@ C4-модель интернет-магазина
 <img width="786" height="687" alt="изображение" src="https://github.com/user-attachments/assets/9b01322c-1110-4c4a-8a3b-261727f4ca9f" />
 
 3.Component
-haimeizuo............
+<img width="734" height="694" alt="image" src="https://github.com/user-attachments/assets/91bfb5d3-4c81-498e-aed2-4743e751fed1" />
+
 4.Communication
 <img width="1362" height="549" alt="image" src="https://github.com/user-attachments/assets/e3922dd5-42fd-4d4a-8fe9-ce16f846c84c" />
 <img width="1384" height="823" alt="image" src="https://github.com/user-attachments/assets/274307f8-0774-4d00-982e-7abf3b2cb0a9" />
