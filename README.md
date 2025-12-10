@@ -190,3 +190,8 @@ C4-модель интернет-магазина
 Оценка пользователей: пользователи могут оценивать и оставлять отзывы о приобретенных товарах.
 
 Диаграмма вариантов использования
+<img width="969" height="573" alt="изображение" src="https://github.com/user-attachments/assets/b728dcc2-fec3-4939-89ad-12f49fcb2bf0" />
+
+Диаграмма классов
+<img width="1059" height="729" alt="изображение" src="https://github.com/user-attachments/assets/f4f8d916-c9c6-426b-b6ea-db4c8ca088bc" />
+
