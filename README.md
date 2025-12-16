@@ -193,5 +193,14 @@ C4-модель интернет-магазина
 <img width="969" height="573" alt="изображение" src="https://github.com/user-attachments/assets/b728dcc2-fec3-4939-89ad-12f49fcb2bf0" />
 
 Диаграмма классов
-<img width="1059" height="729" alt="изображение" src="https://github.com/user-attachments/assets/f4f8d916-c9c6-426b-b6ea-db4c8ca088bc" />
+![a1ea65da4ec16e6d8f9bb8770ced36a](https://github.com/user-attachments/assets/c8ab6db9-4abe-4658-baf1-1c0a4deb34cf)
+
+Диаграмма деятельности
+<img width="1536" height="1024" alt="743dfef5ef5831f1d6973425101a2c6" src="https://github.com/user-attachments/assets/77fdd9ca-9634-4db6-93f7-9d6f94d20096" />
+<img width="1024" height="1536" alt="854051a8d590ef201513aea8742bb92" src="https://github.com/user-attachments/assets/31debfe4-ffa8-41c7-b94c-a0ca910b9391" />
+
+Раскадровки
+<img width="615" height="268" alt="1d256ec2c95b8f06e36994208e0c792" src="https://github.com/user-attachments/assets/e48dd83e-4235-4c33-9b85-624b16cef2a0" />
+<img width="626" height="287" alt="8f553dd533fc0ba2f83e36af50c2241" src="https://github.com/user-attachments/assets/d8735399-0596-4580-8eca-9483f73a20d4" />
+<img width="729" height="244" alt="11eee31c87e4323cff31904260d7218" src="https://github.com/user-attachments/assets/521e7f14-c461-41f3-a7ca-a3dc9021d1fb" />
 
