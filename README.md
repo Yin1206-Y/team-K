@@ -215,5 +215,6 @@ C4-модель интернет-магазина
 
 
 Диаграмма сущность-связь
-
+<img width="1536" height="1024" alt="9ea47871bf09ebe063456f87e39601b" src="https://github.com/user-attachments/assets/bdef3ce0-3ac0-4e77-9799-18367a157746" />
 На основе этой диаграммы отношений используйте редактор данных Mysql для подключения к базе данных
+<img width="1536" height="1024" alt="5a40d85ed24e0891f28fc9ac4df1019" src="https://github.com/user-attachments/assets/6aafbd31-c36d-48ab-a482-6e16ae8f73cc" />
