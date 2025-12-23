@@ -204,3 +204,16 @@ C4-модель интернет-магазина
 <img width="626" height="287" alt="8f553dd533fc0ba2f83e36af50c2241" src="https://github.com/user-attachments/assets/d8735399-0596-4580-8eca-9483f73a20d4" />
 <img width="729" height="244" alt="11eee31c87e4323cff31904260d7218" src="https://github.com/user-attachments/assets/521e7f14-c461-41f3-a7ca-a3dc9021d1fb" />
 
+Платежные системы (передаваемые данные，Получаемые данные)
+<img width="1237" height="592" alt="image" src="https://github.com/user-attachments/assets/b7bf6b2b-d8d9-489e-8600-147085c6d79c" />
+<img width="685" height="293" alt="013813630f8ca0ede85fa2c1412444f" src="https://github.com/user-attachments/assets/f85925e1-934d-4bdd-b1f3-8c2b6ad326da" />
+
+
+
+Использование HTTPS для шифрования данных при передаче
+<img width="876" height="630" alt="image" src="https://github.com/user-attachments/assets/3261475c-3240-451c-9569-23ad1d46db16" />
+
+
+Диаграмма сущность-связь
+
+На основе этой диаграммы отношений используйте редактор данных Mysql для подключения к базе данных
